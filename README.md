@@ -1,1 +1,1 @@
-# sci-hub
+# sci-hub pdf downloader
